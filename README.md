@@ -7,6 +7,16 @@ https://www.kaggle.com/datasets/abhi8923shriv/liver-disease-patient-dataset?sele
 # Introduction
 Liver disease is a significant public health issue globally, and early detection is crucial for effective treatment. This project utilizes machine learning algorithms to predict liver disease using a dataset of patient records. The goal is to assist healthcare professionals in early diagnosis and improve patient outcomes.
 
+# Preprocessing
+Data preprocessing steps include:
+
+* Handling missing values.
+* Encoding categorical variables.
+* Normalizing numerical features.
+* Data Transformation
+* Splitting the dataset into training and testing sets.
+
+
 # Model
 Several models have been explored for Liver Disease Prediction, including:
 
