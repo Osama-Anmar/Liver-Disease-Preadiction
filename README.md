@@ -10,7 +10,7 @@ Liver disease is a significant public health issue globally, and early detection
 # Model
 Several models have been explored for Liver Disease Prediction, including:
 
-* DecisionTree
+* Decision Tree
 * Random Forest
 * Support Vector Machine
 * Logistic Regression
